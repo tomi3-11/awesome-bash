@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Create a sample data file
+cat << EOF > data.txt
+Brand	Model	RAM
+Apple	MacBook	 32
+Apple	iPad	 16
+Dell	XPS	 32
+Dell	Inspiron 128
+Lenovo	ThinkPad 128
+Lenovo	Yoga	 256
+Apple	MacBook	 64
+EOF
+
